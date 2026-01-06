@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Desktop\OOP2\practice code\Student Record System\Student Record System\bin\Debug\Student Record System.exe.config
+C:\Users\user\OneDrive\Desktop\OOP2\practice code\Student Record System\Student Record System\bin\Debug\Student Record System.exe
+C:\Users\user\OneDrive\Desktop\OOP2\practice code\Student Record System\Student Record System\bin\Debug\Student Record System.pdb
+C:\Users\user\OneDrive\Desktop\OOP2\practice code\Student Record System\Student Record System\obj\Debug\Student Record System.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\OOP2\practice code\Student Record System\Student Record System\obj\Debug\Student Record System.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\OOP2\practice code\Student Record System\Student Record System\obj\Debug\Student Record System.exe
+C:\Users\user\OneDrive\Desktop\OOP2\practice code\Student Record System\Student Record System\obj\Debug\Student Record System.pdb

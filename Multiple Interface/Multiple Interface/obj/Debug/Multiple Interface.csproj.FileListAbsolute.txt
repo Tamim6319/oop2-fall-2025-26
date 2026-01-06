@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\OOP2\Lab Final\Multiple Interface\Multiple Interface\bin\Debug\Multiple Interface.exe.config
+C:\Users\user\Desktop\OOP2\Lab Final\Multiple Interface\Multiple Interface\bin\Debug\Multiple Interface.exe
+C:\Users\user\Desktop\OOP2\Lab Final\Multiple Interface\Multiple Interface\bin\Debug\Multiple Interface.pdb
+C:\Users\user\Desktop\OOP2\Lab Final\Multiple Interface\Multiple Interface\obj\Debug\Multiple Interface.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OOP2\Lab Final\Multiple Interface\Multiple Interface\obj\Debug\Multiple Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP2\Lab Final\Multiple Interface\Multiple Interface\obj\Debug\Multiple Interface.exe
+C:\Users\user\Desktop\OOP2\Lab Final\Multiple Interface\Multiple Interface\obj\Debug\Multiple Interface.pdb
